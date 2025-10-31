@@ -1,9 +1,0 @@
-{
-    "method": "cot",
-    "correct": 69,
-    "total": 100,
-    "accuracy": "69.00%",
-    "num_answer1": 40,
-    "num_answer2": 60,
-    "num_empty/invalid": 0
-}

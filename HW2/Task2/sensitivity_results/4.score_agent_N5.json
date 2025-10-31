@@ -1,8 +1,0 @@
-{
-    "method": "agent",
-    "parameter": "n_runs",
-    "value": 5,
-    "correct": 71,
-    "total": 100,
-    "accuracy": "71.00%"
-}

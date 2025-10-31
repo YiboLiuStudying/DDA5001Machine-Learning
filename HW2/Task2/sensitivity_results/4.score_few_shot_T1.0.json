@@ -1,8 +1,0 @@
-{
-    "method": "few_shot",
-    "parameter": "temperature",
-    "value": 1.0,
-    "correct": 69,
-    "total": 100,
-    "accuracy": "69.00%"
-}

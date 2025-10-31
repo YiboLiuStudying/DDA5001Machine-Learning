@@ -1,9 +1,0 @@
-{
-    "method": "zero_shot",
-    "correct": 67,
-    "total": 100,
-    "accuracy": "67.00%",
-    "num_answer1": 61,
-    "num_answer2": 38,
-    "num_empty/invalid": 1
-}

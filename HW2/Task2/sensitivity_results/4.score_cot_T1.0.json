@@ -1,8 +1,0 @@
-{
-    "method": "cot",
-    "parameter": "temperature",
-    "value": 1.0,
-    "correct": 68,
-    "total": 100,
-    "accuracy": "68.00%"
-}
