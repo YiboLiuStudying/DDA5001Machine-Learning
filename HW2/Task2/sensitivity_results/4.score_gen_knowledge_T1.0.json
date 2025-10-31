@@ -1,0 +1,8 @@
+{
+    "method": "gen_knowledge",
+    "parameter": "temperature",
+    "value": 1.0,
+    "correct": 73,
+    "total": 100,
+    "accuracy": "73.00%"
+}

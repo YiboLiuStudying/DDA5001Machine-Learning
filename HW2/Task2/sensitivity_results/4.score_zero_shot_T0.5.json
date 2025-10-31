@@ -1,0 +1,8 @@
+{
+    "method": "zero_shot",
+    "parameter": "temperature",
+    "value": 0.5,
+    "correct": 69,
+    "total": 100,
+    "accuracy": "69.00%"
+}

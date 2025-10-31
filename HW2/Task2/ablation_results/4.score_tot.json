@@ -1,0 +1,9 @@
+{
+    "method": "tot",
+    "correct": 66,
+    "total": 100,
+    "accuracy": "66.00%",
+    "num_answer1": 47,
+    "num_answer2": 53,
+    "num_empty/invalid": 0
+}

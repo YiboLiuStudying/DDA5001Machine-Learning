@@ -1,0 +1,9 @@
+{
+    "method": "gen_knowledge",
+    "correct": 68,
+    "total": 100,
+    "accuracy": "68.00%",
+    "num_answer1": 61,
+    "num_answer2": 39,
+    "num_empty/invalid": 0
+}

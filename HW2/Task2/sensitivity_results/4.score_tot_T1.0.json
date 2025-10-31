@@ -1,0 +1,8 @@
+{
+    "method": "tot",
+    "parameter": "temperature",
+    "value": 1.0,
+    "correct": 63,
+    "total": 100,
+    "accuracy": "63.00%"
+}

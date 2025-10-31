@@ -1,0 +1,9 @@
+{
+    "method": "few_shot",
+    "correct": 70,
+    "total": 100,
+    "accuracy": "70.00%",
+    "num_answer1": 57,
+    "num_answer2": 43,
+    "num_empty/invalid": 0
+}
